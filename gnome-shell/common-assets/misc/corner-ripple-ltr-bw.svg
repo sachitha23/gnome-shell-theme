@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="52" height="52" id="svg2" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs4">
+    <radialGradient id="gradient-0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="52">
+      <stop offset="0" style="stop-color: rgb(207, 207, 207);"/>
+      <stop offset="1" style="stop-color: rgb(255, 255, 255);"/>
+    </radialGradient>
+  </defs>
+  <g id="layer1" transform="translate(0,-1000.3622)">
+    <path style="fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 0; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; stroke-miterlimit: 4; stroke-dasharray: none; fill-opacity: 1; fill: url(#gradient-0);" id="path2991" d="M 52,0 A 52,52 0 0 1 0,52 52,52 0 0 1 -52,0 52,52 0 0 1 0,-52 52,52 0 0 1 52,0 Z" transform="translate(0,1000.3622)"/>
+  </g>
+</svg>

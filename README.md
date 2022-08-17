@@ -1,2 +1,1 @@
-# gnome-shell theme
- desktop theme
+# Aqua-theme-1.0

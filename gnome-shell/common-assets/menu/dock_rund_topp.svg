@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" id="svg5386" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="16" y1="1025.362" x2="16" y2="1046.362" gradientTransform="matrix(1.101918, 0, 0, 1.101917, -1.630919, -101.690888)">
+      <stop offset="0" style="stop-color: rgb(245, 245, 245);"/>
+      <stop offset="1" style="stop-color: rgb(170, 170, 170);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="16" y1="1024.862" x2="16" y2="1046.862" gradientTransform="matrix(1.086365, 0, 0, 1.081135, -1.381849, -85.101365)">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+      <stop offset="1" style="stop-color: rgb(180, 180, 180);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="442.017" y1="365.404" x2="442.017" y2="393.482">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+      <stop offset="1" style="stop-color: rgb(170, 170, 170);"/>
+    </linearGradient>
+    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="442.017" y1="365.404" x2="442.017" y2="393.482">
+      <stop offset="0" style="stop-color: rgb(247, 247, 247);"/>
+      <stop offset="1" style="stop-color: rgb(170, 170, 170);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4" gradientUnits="userSpaceOnUse" x1="442.027" y1="362.436" x2="442.027" y2="393.555" gradientTransform="matrix(0.844884, 0, 0, 0.844884, 68.565457, 61.046567)">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient-5" gradientUnits="userSpaceOnUse" x1="442.016" y1="363.137" x2="442.016" y2="393.416" gradientTransform="matrix(0.032502, 0, 0, 0.032502, 427.649543, 380.629139)">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient-7" gradientUnits="userSpaceOnUse" x1="442.016" y1="363.917" x2="442.016" y2="393.483">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(0,-1020.3622)">
+    <g transform="translate(-425.99995,658.36226)" id="g4271" style="display: inline; opacity: 0.95;">
+      <rect ry="8" rx="8" y="362.49994" x="426.49994" height="31" width="31.000011" id="rect4164-4-7-5-3-8-8" style="display: inline; fill: none; fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; opacity: 0.33; visibility: hidden;"/>
+      <rect ry="6.999999" rx="7" y="363.49997" x="427.49994" height="28.999996" width="29.000011" id="rect4164-4-7-5-3-8" style="display: inline; opacity: 0.07; fill: none; fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; visibility: hidden;"/>
+      <rect ry="6" rx="6" y="364.49994" x="428.49994" height="26.999998" width="27.000011" id="rect4164-4-7-5-3" style="display: inline; opacity: 0.13; fill: none; fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; visibility: hidden;"/>
+      <rect ry="5" rx="4.9999995" y="365.49997" x="429.49997" height="24.999998" width="24.999981" id="rect4164-4-7-5" style="display: inline; opacity: 0.2; fill: none; fill-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(0, 0, 0); visibility: hidden;"/>
+      <path id="rect4164-4-7" d="M 431.591 392.221 C 432.316 392.958 431.306 393.416 432.426 393.416 L 451.516 393.416 C 452.636 393.416 451.569 392.958 452.294 392.221 C 452.035 392.343 451.749 392.416 451.443 392.416 L 432.615 392.474 C 432.309 392.474 431.85 392.343 431.591 392.221 Z" style="display: inline; opacity: 0.25; fill: none; fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; visibility: hidden;"/>
+      <path d="M 449.319 362.455 C 449.319 362.455 452.658 362.483 455.059 364.798 C 457.421 367.075 457.597 370.852 457.597 370.852 L 457.532 393.555 L 426.457 393.555 L 426.526 371.333 C 426.526 371.333 426.078 368.025 428.724 365.075 C 431.41 362.081 435.493 362.451 435.493 362.451 L 449.319 362.455 Z" style="stroke-width: 1px; fill: none; opacity: 0.02; stroke: url(#gradient-4);"/>
+      <path d="M 448.899 363.157 C 448.899 363.157 452.051 363.183 454.317 365.436 C 456.547 367.651 456.712 371.326 456.712 371.326 L 456.651 393.416 L 427.32 393.416 L 427.384 371.794 C 427.384 371.794 426.961 368.576 429.458 365.706 C 431.995 362.793 435.849 363.151 435.849 363.151 L 448.899 363.157 Z" style="stroke-width: 1px; fill: none; opacity: 0.05; stroke: url(#gradient-5);"/>
+      <path d="M 448.475 363.934 C 448.475 363.934 451.433 363.961 453.559 366.161 C 455.652 368.323 455.807 371.911 455.807 371.911 L 455.75 393.483 L 428.225 393.483 L 428.287 372.368 C 428.287 372.368 427.89 369.227 430.234 366.423 C 432.612 363.578 436.229 363.931 436.229 363.931 L 448.475 363.934 Z" style="stroke-width: 1px; fill: none; opacity: 0.1; stroke: url(#gradient-7);"/>
+      <path d="M 448.034 364.708 C 448.034 364.708 450.804 364.735 452.796 366.876 C 454.757 368.984 454.902 372.477 454.902 372.477 L 454.849 393.481 L 429.067 393.481 L 429.123 372.923 C 429.123 372.923 428.752 369.862 430.947 367.132 C 433.176 364.362 436.564 364.705 436.564 364.705 L 448.034 364.708 Z" style="fill: rgb(216, 216, 216); stroke: black; stroke-width: 1px; opacity: 0.15;"/>
+      <path d="M 447.809 365.42 C 447.809 365.42 450.462 365.445 452.369 367.535 C 454.246 369.589 454.385 372.996 454.385 372.996 L 454.334 393.482 L 429.649 393.482 L 429.703 373.43 C 429.703 373.43 429.349 370.446 431.45 367.784 C 433.584 365.082 436.826 365.417 436.826 365.417 L 447.809 365.42 Z" style="stroke-width: 1px; stroke: url(#gradient-1); fill: url(#gradient-3);"/>
+    </g>
+    <rect style="display: inline; opacity: 0.83; fill: none; fill-opacity: 1; stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: url(#gradient-2); visibility: hidden;" id="rect4164-4-3" width="23" height="26.766" x="4.5" y="1019.931" rx="2" ry="2" transform="matrix(1, 0, 0, 1.000002, 0, 5.057794)"/>
+    <rect style="display: inline; opacity: 1; fill-opacity: 1; stroke: none; stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; fill: url(#gradient-0); visibility: hidden;" id="rect4164" width="22" height="25.953" x="5" y="1025.362" rx="1.4" ry="1.4"/>
+  </g>
+</svg>
